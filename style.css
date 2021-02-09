@@ -19,8 +19,9 @@
 .menu ul li a{
     text-decoration: none;
     font-size: 20px;
-    border-right: 2px solid #020102;
+    border-right: 4px solid #09ec82;
     padding: 8px;
+    color: #ffffff;
     
     
     
@@ -28,9 +29,9 @@
 .menu ul li a:hover{
     font-size: 20px;
     padding: 5px;
-    color: #5910CF;
+    color: #F9F871;
     font-weight: 900;
-    transition: all 1.5s;
+    transition: all 0.8s;
 
     
     
